@@ -68,3 +68,5 @@ class Address(models.Model):
         Customer, on_delete = models.CASCADE)
     
     
+class Test:
+    print(okay)
