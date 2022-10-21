@@ -69,4 +69,4 @@ class Address(models.Model):
     
     
 class Test:
-    print(okay)
+    print("login")
